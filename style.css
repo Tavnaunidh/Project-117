@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(124, 89, 253);
+}
+h1{
+    color: blue;
+    background-color: yellow;
+}
+#score{
+font-size: 30px;
+float: left;
+}
+#time_limit{
+    font-size: 30px;
+float: right;
+}
